@@ -1,3 +1,3 @@
 An interactive Bézier curve generator.
 
-[Demo](http://fullr.github.io/bezier/)
+[Try it out!](http://fullr.github.io/bezier/)
